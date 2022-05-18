@@ -138,7 +138,7 @@ MonoBehaviour:
   m_MinSize: {x: 609, y: 392}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 36
+  controlID: 162
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,7 +163,7 @@ MonoBehaviour:
   m_MinSize: {x: 333, y: 392}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 37
+  controlID: 58
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,7 +188,7 @@ MonoBehaviour:
   m_MinSize: {x: 203, y: 121}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 38
+  controlID: 59
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,7 +268,7 @@ MonoBehaviour:
   m_MinSize: {x: 333, y: 271}
   m_MaxSize: {x: 14003, y: 10021}
   vertical: 0
-  controlID: 83
+  controlID: 85
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -473,7 +473,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: cee7ffff18e8ffff48f7ffffb8faffff50fbffff2c510000
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -623,9 +623,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.8921188, y: 1.2154598, z: -13.685301}
+    m_Target: {x: -0.8570273, y: 1.2230054, z: -13.740685}
     speed: 2
-    m_Value: {x: -0.88744175, y: 1.2214541, z: -13.680689}
+    m_Value: {x: -0.8424618, y: 1.2409804, z: -13.735685}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -675,9 +675,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1.2255979
+    m_Target: 1.3275756
     speed: 2
-    m_Value: 1.2833486
+    m_Value: 1.3901315
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -793,20 +793,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Objects_Palettes/Cart_Garden
+    - Assets/Characters/Main Character
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/Objects_Palettes/Cart_Garden
+  - Assets/Characters/Main Character
   m_LastFoldersGridSize: 65
   m_LastProjectPath: C:\Users\alexa\OneDrive\Escritorio\aFriedChicken\aFriedChiken\aFriedChicken
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc510000
-    m_LastClickedID: 20988
-    m_ExpandedIDs: 000000006a3c0000723c000000ca9a3b
+    m_SelectedIDs: b23e0000
+    m_LastClickedID: 16050
+    m_ExpandedIDs: 000000007e3e0000883e00008a3e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -834,7 +834,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006a3c0000
+    m_ExpandedIDs: 000000007e3e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
